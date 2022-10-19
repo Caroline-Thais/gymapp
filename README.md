@@ -4,7 +4,10 @@
 
 </div>
 
+---
+Veja o projeto aqui: https://gymapp-eta.vercel.app
 
+---
 
 
 Website desenvolvido com React.js para quem gosta de atividades físicas.
