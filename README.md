@@ -45,4 +45,6 @@ Tecnologias utilizadas:
 <img width="958" alt="Captura de Tela 2022-10-19 às 14 46 29" src="https://user-images.githubusercontent.com/76595905/196766704-aec3e7d9-4bac-4e04-9fc6-26496ac8e5c8.png">
 </a>
 
+O projeto foi desenvolvido acompanhando o tutorial do JavaScript Master.
+
 
