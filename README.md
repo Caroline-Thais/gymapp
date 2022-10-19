@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# gym app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website desenvolvido com React.js para atividades físicas.
 
-## Available Scripts
+Os dados do websites foram retirados da API ExerciseDB fornecida pelo rapidapi.com.
 
-In the project directory, you can run:
+Habilidades desenvolivdas:
 
-### `npm start`
+- Consumo de APIs,
+- React hooks,
+- Uso de rotas com React,
+- Paginação,
+- Uso da biblioteca Material UI para estilização.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tecnologias utilizadas:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React,
+- Material UI,
+- API Exercise DB,
+- API Youtube Search and Download,
 
-### `npm test`
+Galeria:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1428" alt="Captura de Tela 2022-10-19 às 14 22 14" src="https://user-images.githubusercontent.com/76595905/196764060-9a92bd4b-d1e4-4e31-b955-18601ba39315.png">
+<img width="1428" alt="Captura de Tela 2022-10-19 às 14 22 27" src="https://user-images.githubusercontent.com/76595905/196764083-93088113-b677-4c1d-b4f8-de9645261006.png">
+<img width="1428" alt="Captura de Tela 2022-10-19 às 14 22 37" src="https://user-images.githubusercontent.com/76595905/196764124-8b269aa6-59c3-4fe7-876d-9732d774ddc6.png">
+<img width="1428" alt="Captura de Tela 2022-10-19 às 14 22 56" src="https://user-images.githubusercontent.com/76595905/196764134-98660d60-93d0-4316-8b6d-1ad20e657010.png">
+<img width="1428" alt="Captura de Tela 2022-10-19 às 14 23 07" src="https://user-images.githubusercontent.com/76595905/196764142-1f3faea8-f3da-4210-99c9-c498ae4bf3a6.png">
